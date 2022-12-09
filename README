@@ -1,0 +1,1 @@
+This is a small example of how a translator works, we use an api which we find as https://mymemory.translated.net/doc/spec.php and we only make a get request, in order to obtain the result or the translated sentence .
